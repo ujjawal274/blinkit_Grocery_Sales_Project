@@ -388,7 +388,6 @@ If you found this project useful or interesting, consider giving the repository 
 
 ### 🛒 Turning Grocery Data into Business Insights 📊
 
-**Built with Microsoft Power BI**
 
 
 👉 Retail = Customer ko directly product bechna.
