@@ -280,7 +280,7 @@ This project demonstrates practical skills in:
 
 ## 📸 Dashboard Preview
 
-Add your Power BI dashboard screenshot to the repository.
+***Power BI dashboard screenshot: .***
 
 Recommended structure:
 
