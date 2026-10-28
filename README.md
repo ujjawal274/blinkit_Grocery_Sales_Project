@@ -298,6 +298,14 @@ BlinkIT-Grocery-Sales-Dashboard/
 
 
 ```
+```
+
+Business Insights:
+
+<img width="569" height="528" alt="Screenshot 2026-10-28 220116" src="https://github.com/user-attachments/assets/6d5bc805-5387-4a3a-a0ab-0df589164525" />
+
+
+```
 
 ---
 
