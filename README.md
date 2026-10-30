@@ -1,4 +1,4 @@
-# 🛒 BlinkIT Grocery Sales Dashboard
+# 🛒 BlinkIT Grocery Sales Dashboard & Business Insights
 
 <div align="center">
 
