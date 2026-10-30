@@ -300,29 +300,18 @@ BlinkIT-Grocery-Sales-Dashboard/
 ```
 ```
 
-Business Insights:
+## 📸 Business Insights Dashboard Preview
 
-<img width="569" height="528" alt="Screenshot 2026-10-28 220116" src="https://github.com/user-attachments/assets/6d5bc805-5387-4a3a-a0ab-0df589164525" />
+***Power BI dashboard screenshot: .***
 
+<img width="864" height="414" alt="Screenshot 2026-10-30 083303" src="https://github.com/user-attachments/assets/464b9384-6548-4d78-8035-3de32c9966ea" />
 
-```
-
----
-
-## 📂 Project Structure
-
-```text
-BlinkIT-Grocery-Sales-Dashboard/
-│
-├── BlinkIT Dashboard.pbix
-├── README.md
-│
-└── Assets/
-    └── Dashboard.png
-```
+Overall Business Takeaway
+Higher Sales → Stronger Outlet Performance → Better Business Growth
 
 ---
 
+```
 ## 🚀 How to Use
 
 1. Download or clone this repository.
