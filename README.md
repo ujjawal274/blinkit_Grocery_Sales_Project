@@ -396,15 +396,4 @@ If you found this project useful or interesting, consider giving the repository 
 
 ### 🛒 Turning Grocery Data into Business Insights 📊
 
-
-
-👉 Retail = Customer ko directly product bechna.
-
-Example:
-- Ek shop se tum ₹500 ka shirt kharidte ho → Retail
-- Shopkeeper directly customer ko product bech raha hai.
-Simple difference:
-- Retail → Business → Customer
-- Wholesale → Business → Dusre business/shopkeeper
-
 </div>
